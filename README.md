@@ -58,16 +58,13 @@ Ao contrário de prints simples, a ferramenta utiliza f-strings com espaçamento
 O script utiliza o módulo os.path para criar dinamicamente a pasta /resultados/, garantindo que o software funcione sem erros em qualquer sistema operativo (Windows, macOS ou Linux).
 
 ## 🖥️ Como Executar
-Clone o repositório:
+Clone o repositório:  
+git clone [https://github.com/Vitoria-analyst/Analise-Mudancas-Climaticas.git](https://github.com/Vitoria-analyst/Analise-Mudancas-Climaticas.git)
 
-git clone [https://github.com/SEU_USUARIO/NOME_DO_REPO.git](https://github.com/SEU_USUARIO/NOME_DO_REPO.git)
-
-Instale as dependências:
-
+Instale as dependências:  
 pip install -r requirements.txt
 
-Execute a ferramenta:
-
+Execute a ferramenta:  
 python AnaliseMudancasClimaticas.py
 
 Interaja com o Menu: Escolha as opções numéricas (1-7) para carregar dados, visualizar gráficos ou exportar relatórios.

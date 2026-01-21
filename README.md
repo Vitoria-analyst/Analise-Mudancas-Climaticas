@@ -67,7 +67,9 @@ pip install -r requirements.txt
 Execute a ferramenta:  
 python AnaliseMudancasClimaticas.py
 
-Interaja com o Menu: Escolha as opções numéricas (1-7) para carregar dados, visualizar gráficos ou exportar relatórios.
+Interaja com o Menu:   
+Escolha as opções numéricas (1-7) para carregar dados, visualizar gráficos ou exportar relatórios.
+
 ---
 ## 👩‍💻 Autora
 Vitória Rodrigues - [LinkedIn](https://www.linkedin.com/in/vitoria-rodrigues-/)
